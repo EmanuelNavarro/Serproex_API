@@ -1,0 +1,21 @@
+{
+    "servicios": [
+        {
+            "texto": "Audios para Centrales Telefónicas y Sistemas de Comunicación.",
+            "audio1": "/Audios/BQ1 - Audi.mp3",
+            "audio2": "/Audios/BQ1 - ADR CENTER.mp3"
+        },
+
+        {
+            "texto": "Producción profesional de todo tipo de audios, para usos comerciales.",
+            "audio1": "/Audios/BQ2 - Honda Motors.mp3",
+            "audio2": "/Audios/BQ2 - Programa Valor.mp3"
+        },
+
+        {
+            "texto": "Elaboración de audios para usos virtuales y páginas Web.",
+            "audio1": "/Audios//BQ3 - ASO.mp3",
+            "audio2": "/Audios/BQ3 - PAYSER.mp3"
+        }
+   ]
+}
